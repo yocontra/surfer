@@ -1,4 +1,4 @@
-**Does your ISP disconnect/throttle your modem for torrenting too hard? Tired of getting up to restart it? Use this thing.**
+**Does your ISP disconnect/throttle your modem? Tired of getting up to restart it? Use this thing.**
 
 ## Information
 
