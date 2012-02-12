@@ -1,12 +1,14 @@
+**Does your ISP disconnect/throttle your modem for torrenting too hard? Tired of getting up to restart it? Use this thing.**
+
 ## Information
 
 <table>
-<tr> 
-<td>Package</td><td>APPNAME</td>
+<tr>
+<td>Package</td><td>surfer</td>
 </tr>
 <tr>
 <td>Description</td>
-<td>NOTHING HERE YET</td>
+<td>Surfboard restarter</td>
 </tr>
 <tr>
 <td>Node Version</td>
@@ -16,13 +18,7 @@
 
 ## Usage
 
-```coffee-script
-NOTHING HERE YET
-```
-
-## Examples
-
-You can view further examples in the [example folder.](https://github.com/wearefractal/APPNAME/tree/master/examples)
+```surfer &```
 
 ## LICENSE
 
