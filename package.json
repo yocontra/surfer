@@ -1,12 +1,13 @@
 {
    "name":"surfer",
-   "description":"Nothing here yet",
-   "version":"0.0.1",
+   "description":"Surfboard restarter",
+   "version":"0.0.2",
    "homepage":"http://github.com/wearefractal/APPNAME",
    "repository":"git://github.com/wearefractal/APPNAME.git",
    "author":"Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
+   "main":"./index.js",
    "bin":{
-    "surfer":"./bin/surfer"
+    "surfer":"./bin/surfer.js"
    },
    "dependencies":{
      "ping":"*"
